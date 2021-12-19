@@ -1,0 +1,16 @@
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\bin\Debug\net5.0\solodovnik04.exe
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\bin\Debug\net5.0\solodovnik04.deps.json
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\bin\Debug\net5.0\solodovnik04.runtimeconfig.json
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\bin\Debug\net5.0\solodovnik04.runtimeconfig.dev.json
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\bin\Debug\net5.0\solodovnik04.dll
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\bin\Debug\net5.0\ref\solodovnik04.dll
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\bin\Debug\net5.0\solodovnik04.pdb
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\obj\Debug\net5.0\solodovnik04.csproj.AssemblyReference.cache
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\obj\Debug\net5.0\solodovnik04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\obj\Debug\net5.0\solodovnik04.AssemblyInfoInputs.cache
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\obj\Debug\net5.0\solodovnik04.AssemblyInfo.cs
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\obj\Debug\net5.0\solodovnik04.csproj.CoreCompileInputs.cache
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\obj\Debug\net5.0\solodovnik04.dll
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\obj\Debug\net5.0\ref\solodovnik04.dll
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\obj\Debug\net5.0\solodovnik04.pdb
+C:\Users\DARKA\source\repos\solodovnik04\solodovnik04\obj\Debug\net5.0\solodovnik04.genruntimeconfig.cache
